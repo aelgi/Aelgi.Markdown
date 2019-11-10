@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aelgi.Markdown.TestRunner", "Aelgi.Markdown.TestRunner\Aelgi.Markdown.TestRunner.csproj", "{BAD13160-045A-4B1C-9C54-FC261C9E079C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aelgi.Markdown", "Aelgi.Markdown\Aelgi.Markdown.csproj", "{F021393E-4580-4A20-B836-25BE569713EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAD13160-045A-4B1C-9C54-FC261C9E079C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAD13160-045A-4B1C-9C54-FC261C9E079C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAD13160-045A-4B1C-9C54-FC261C9E079C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAD13160-045A-4B1C-9C54-FC261C9E079C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F021393E-4580-4A20-B836-25BE569713EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F021393E-4580-4A20-B836-25BE569713EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F021393E-4580-4A20-B836-25BE569713EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F021393E-4580-4A20-B836-25BE569713EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4ACE6203-9058-4CB9-8BB0-E494AAABA1FA}
+	EndGlobalSection
+EndGlobal
